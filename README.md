@@ -36,3 +36,7 @@ Post-processing – Cleaning and formatting the output for usability.
 
 Speech recognition systems are used in voice assistants (like Siri or Alexa), transcription tools, customer service bots, and accessibility applications. With the growing availability of open-source tools and powerful pre-trained models, building accurate and responsive speech recognition solutions is now more accessible than ever.
 
+OUTPUT
+
+<img width="880" height="858" alt="Image" src="https://github.com/user-attachments/assets/476d885d-47a7-46c4-ace0-ef3fb37e792c" />
+
